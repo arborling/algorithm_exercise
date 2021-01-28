@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int length(string str){
+int length(string str){  //debug
 	return str.size();
 }
 
