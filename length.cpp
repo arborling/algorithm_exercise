@@ -7,7 +7,9 @@ int length(string str){
 	return str.size();
 }
 
+int str_print(string str){	//dev mode
 
+}
 
 int main(int argc,char *argv[]){
 	string s = "hello world";
